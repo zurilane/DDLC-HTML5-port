@@ -1,0 +1,13 @@
+# Ren'Py cache
+cache/
+
+# Saves
+saves/
+
+# Python cache
+*.pyc
+__pycache__/
+
+# OS junk
+Thumbs.db
+.DS_Store
